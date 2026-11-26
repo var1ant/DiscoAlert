@@ -1,0 +1,7 @@
+# Secrets and runtime files: never commit these
+config.env
+state.json
+state.json.tmp
+watcher.log
+watcher.log.1
+node_modules/
